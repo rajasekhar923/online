@@ -8,7 +8,7 @@ int main()
     int score = 0;
     int choice;
 
-    printf("Welcome to the Online Quiz Application!\n");
+    printf("Welcome to the Online Quiz Application!!\n");
     printf("Please enter your name: ");
     scanf("%s", name);
 
